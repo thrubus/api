@@ -1,5 +1,5 @@
 ## List Code Status
-``
+
 #define RESPONSE_CODES 103
 #define HTTP_CONTINUE                        100
 #define HTTP_SWITCHING_PROTOCOLS             101
@@ -60,4 +60,3 @@
 #define HTTP_LOOP_DETECTED                   508
 #define HTTP_NOT_EXTENDED                    510
 #define HTTP_NETWORK_AUTHENTICATION_REQUIRED 511
-``
